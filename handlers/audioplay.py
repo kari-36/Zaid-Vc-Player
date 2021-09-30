@@ -36,7 +36,7 @@ async def stream(_, message: Message):
                         url=f"https://t.me/Zaid_Team1"),
                     InlineKeyboardButton(
                         text="ᴄʜᴀɴɴᴇʟ",
-                        url=f"https://t.me/Zaid_Updates")
+                        url=f"https://t.me/SUPERIOR_BOTS")
                 ]
             ]
         )
