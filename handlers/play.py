@@ -890,7 +890,7 @@ async def ytplay(_, message: Message):
                 InlineKeyboardButton("🗑 ᴄʟᴏsᴇ", callback_data="cls"),
             ],[
                 InlineKeyboardButton("📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/SUPERIOR_BOTS"),
-                InlineKeyboardButton("✨ ɢʀᴏᴜᴘ", url=f"https://t.me/OnlineHangama")
+                InlineKeyboardButton("✨ ɢʀᴏᴜᴘ", url=f"https://t.me/SUPERIOR_SUPPORT")
             ],
         ]
     )
