@@ -55,10 +55,10 @@ async def start_(client: Client, message: Message):
                         "💝 ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/Timesisnotwaiting")
                 ],[
                     InlineKeyboardButton(
-                        "👥 ᴏꜰꜰɪᴄɪᴀʟ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Zaid_Support"
+                        "👥 ᴏꜰꜰɪᴄɪᴀʟ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/SUPERIOR_BOTS"
                     ),
                     InlineKeyboardButton(
-                        "🔥 ᴏꜰꜰɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Zaid_Updates")
+                        "🔥 ᴏꜰꜰɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/SUPERIOR_SUPPORT")
                 ],[
                     InlineKeyboardButton(
                         "😁 ᴏꜰꜰɪᴄɪᴀʟ ᴢᴀɪᴅ ᴄʜᴀᴛ", url="https://t.me/Zaid_Team1")
@@ -84,10 +84,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨ ɢʀᴏᴜᴘ", url=f"https://t.me/Zaid_Support"
+                        "✨ ɢʀᴏᴜᴘ", url=f"https://t.me/SUPERIOR_SUPPORT"
                     ),
                     InlineKeyboardButton(
-                        "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Zaid_Updates"
+                        "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/SUPERIOR_BOTS"
                     )
                 ]
             ]
